@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 📊 Most Used Landuages
+# 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksluczak&layout=compact&theme=dark&hide=Jupyter%20Notebook,HTML,Mathematica,CSS,SCSS)
 
 
